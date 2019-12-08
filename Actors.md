@@ -22,7 +22,7 @@ This plot shows how some of the movies have no shared actors with other movies. 
   <img src="./images/big_component1.png" width="500"/>
 </figure>
 
-The attentive reader will notice color change of the nodes. The explanation for this is, that the nodes are now colored based on the rankings of the movies. The ranking is divided into three intervals based on the findings from the [Basic Stats](https://lauramarott.github.io/SocialGraphs/BasicStats] with almost the same amount of movie in each rank-category. 
+The attentive reader will notice color change of the nodes. The explanation for this is, that the nodes are now colored based on the rankings of the movies. The ranking is divided into three intervals based on the findings from the [Basic Stats](https://lauramarott.github.io/SocialGraphs/BasicStats) with almost the same amount of movie in each rank-category. 
 * The high ranked movies are BLUE
 * The medium ranked movies are GREEN
 * The low ranked movies are RED
