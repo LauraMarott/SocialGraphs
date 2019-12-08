@@ -8,6 +8,8 @@ To understand the data it is here examined on the following parameters:
 * Budget and Ratings
 * Ratings
 
+This analysis strives to also understand patterns in the industry based on the above factors. Therefore, the purpose of this is to give YOU a better insight in what is going on in the movie industry. 
+
 ### Genres
 
 Each movie can be assigned several genres by IMDb. This means that one movie can appear in more bars in the plot below:
@@ -50,6 +52,10 @@ The plot shows a relation between the budget and rating. It seems like high budg
 
 ### Ratings
 
+The ratings are essential to analyse, since this whole investigation of movies are based on the assumption that a movie is successful if it has a high IMDb-score. The boxplot below shows the distribution of the ratings:
+
 <figure style="text-align: center;">
   <img src="./images/ratings.png" width="500" alt="Genre frequency"/>
 </figure>
+
+
