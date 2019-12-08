@@ -26,9 +26,11 @@ To understand the data, the basic stats are explored. See the analysis [here](ht
 
 This investigation centers around actors and movie ratings. For this, a Network Analysis is made based on the movies as nodes and the shared actors as edges. Click [here](https://lauramarott.github.io/SocialGraphs/Actors) to learn more abot this topic.
 
+### Review Investigaion based on Rankings
+
 ### Investigation of Communities
 
-### Investigation of Cenres
+### Investigation of Genres
 
 ### Conclusion and further work
 
