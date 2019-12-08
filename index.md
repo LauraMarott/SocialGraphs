@@ -5,6 +5,9 @@ Do you love movies? Are movies a big part of your life either private or profess
 This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful if any at all. In this regard  successfull is based on good imdb-score and reviews. 
 Are you ready to join us through this investigation? Then, let's roll!
 
+#### What is IMDb? And what is the IMDb-score?
+
+
 ### [Understanding Data](https://lauramarott.github.io/SocialGraphs/BasicStats)
 
 The main data is IMDb-data extracted from [kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). The data is build around the movies where each line represent a movie.
