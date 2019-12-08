@@ -79,17 +79,27 @@ To sum up, the betweenness centralities show no tendencies on the rankings being
 
 #### Eigenvector Centrality
 
+The eigenvector centrality examines the influence of a node in a network meaning that a node with a high eigenvector centrality is linked to other nodes with high eigenvector centrality. This means that the influence of a node is determined from the influence of it neighbors. This is visualised below:
+
 <figure style="text-align: center;">
   <img src="./images/graph_eigenvector1.png" width="500"/>
 </figure>
+
+It is clear that some nodes are popular in terms of their eigenvector centrality. These nodes are linking to each other. From this plot, the high and medium ranked movies have the highest eigenvector centralities meaning that they might use the same popular actors. The top and bottom eigenvector centralities are investigated below:
 
 <figure style="text-align: center;">
   <img src="./images/eigenvector_nodes_top.png" width="500"/>
 </figure>
 
+The table above shows a clear tendency of the high ranked movies having the highest eigenvector centralities. 
+
 <figure style="text-align: center;">
   <img src="./images/eigenvector_nodes_bottom.png" width="500"/>
 </figure>
+
+From the bottom eigenvector centralities no clear patterns is seen, since both medium and low ranked movies are to find here. Many of these movies also have a low degree, which might be the reason for them to have such a low eigenvector centrality since they have a few connections. 
+
+To sum up, the high ranked movies tend to have a high influence at each other, which might mean that they use popular actors. However, it is difficult to say anything about the rest of the movies. 
 
 ### Understanding the Network further
 
