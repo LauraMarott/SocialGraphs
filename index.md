@@ -6,8 +6,11 @@ This website strives to investigate IMDb-data to find out what patterns contribu
 Are you ready to join us through this investigation? Then, let's roll!
 
 #### What is IMDb? And what is the IMDb-score?
-Oh, wait. Before we get started for real, it is important to know the concepts of this whole investigation.
+Oh, wait. Before we get started for real, it is important to know the concepts of this whole investigation:
 
+[IMDb](https://www.imdb.com/) is one of the biggest online databases of information related to movies and tv-programs. IMDb is especially known for their respectable ratings based on the viewers scores for the movies. 
+
+The scores are on a scale from 1 to 10 and is calculated as a weighted mean rating, meaning that they try to keep the scores as representative as possible by not letting all ratings have the same weight. The algorithms behind are secret. For more information, visit [IMDb's help center](https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#).
 
 ### [Understanding Data](https://lauramarott.github.io/SocialGraphs/BasicStats)
 
@@ -17,8 +20,6 @@ After preparation the dataset only contains movies from 2010 and newer. Download
 Furthermore, the IMDbPY package is used to scrape the reviews from IMDb.com. 
 
 To understand the data, the basic stats are explored. See the analysis [here](https://lauramarott.github.io/SocialGraphs/BasicStats).
-
-### Contents of the website
 
 ### Investigation of Actors and rankings
 
