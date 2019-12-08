@@ -8,7 +8,7 @@ Are you ready to join us through this investigation? Then, let's roll!
 ### Understanding Data
 
 The main data is IMDb-data extracted from [kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). The data is build around the movies where each line represent a movie.
-After preparation the dataset only contains movies from 2010 and newer. Download this dataset here
+After preparation the dataset only contains movies from 2010 and newer. Download this dataset [here](https://github.com/LauraMarott/SocialGraphs/blob/master/dataset.csv)
 
 
 ### Contents of the website
