@@ -35,11 +35,11 @@ The attentive reader will notice color change of the nodes. The explanation for 
 </figure>
 
 <figure style="text-align: center;">
-  <img src="./images/degree_node_top.png" width="500"/>
+  <img src="./images/degree_nodes_top.png" width="500"/>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="./images/degree_node_bottom.png" width="500"/>
+  <img src="./images/degree_nodes_bottom.png" width="500"/>
 </figure>
 
 #### Betweenness Centrality
