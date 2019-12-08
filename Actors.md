@@ -10,14 +10,14 @@ The network is simple since it is not possible for a movie to link to itself. Be
 
 ### Overall Network and Biggest Component
 
-
+The overall network is plotted below
 
 <figure style="text-align: center;">
-  <img src="./images/overall_network.png" width="500"/>
+  <img src="./images/overall_network1.png" width="500"/>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="./images/big_component.png" width="500"/>
+  <img src="./images/big_component1.png" width="500"/>
 </figure>
 
 ### Degrees and Centralities Plots
