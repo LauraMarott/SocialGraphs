@@ -22,13 +22,15 @@ Furthermore, the IMDbPY package is used to scrape the reviews from IMDb.com.
 
 To understand the data, the basic stats are explored. See the analysis [here](https://lauramarott.github.io/SocialGraphs/BasicStats).
 
-### [Investigation of Actors and Rankings](https://lauramarott.github.io/SocialGraphs/Actors)
+### [Investigation of Actors](https://lauramarott.github.io/SocialGraphs/Actors)
 
 This investigation centers around actors and movie ratings. For this, a Network Analysis is made based on the movies as nodes and the shared actors as edges. Click [here](https://lauramarott.github.io/SocialGraphs/Actors) to learn more abot this topic.
 
 ### Investigation of Communities
 
 ### Investigation of Cenres
+
+### Conclusion and further work
 
 ### Explainer Notebook
 
