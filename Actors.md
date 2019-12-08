@@ -53,6 +53,8 @@ This table above on the other hand shows that the bottom 10 movies based on degr
 
 #### Betweenness Centrality
 
+
+
 #### Eigenvector Centrality
 
 ### Understanding the Network further
