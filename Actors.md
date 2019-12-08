@@ -28,6 +28,23 @@ The attentive reader will notice color change of the nodes. The explanation for 
 * The low ranked movies are RED
 
 ### Degrees and Centralities Plots
+#### Degree
+
+<figure style="text-align: center;">
+  <img src="./images/graph_degree1.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/degree_node_top.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/degree_node_bottom.png" width="500"/>
+</figure>
+
+#### Betweenness Centrality
+
+#### Eigenvector Centrality
 
 ### Understanding the Network further
 
