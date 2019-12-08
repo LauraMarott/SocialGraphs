@@ -45,3 +45,9 @@ The relationship between budget and ratings are also interesting to take a look 
 </figure>
 
 The plot shows a relation between the budget and rating. It seems like high budget movies are 'secured' high ratings. This might be due to the special effects afforded to make that extra touch on the movies.
+
+### Ratings
+
+<figure style="text-align: center;">
+  <img src="./images/ratings.png" width="500" alt="Genre frequency"/>
+</figure>
