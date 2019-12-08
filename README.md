@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Investigation of IMDb-data
+
+Do you love movies? Are movies a big part of your life either private or professional? And are you interested in understanding what makes some movies successful while others tend to be unsuccessful? Then you have come to the right page!
+
+This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful if any at all. Are you ready to join us through this investigation? Then, let's roll!
 
 You can use the [editor on GitHub](https://github.com/LauraMarott/SocialGraphs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
