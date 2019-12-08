@@ -8,3 +8,6 @@ To understand the data it is here examined on the following parameters:
 * Ratings
 
 ### Genre
+
+Each movie can be assigned several genres by IMDb. This means that one movie can appear in more bars in the plot below:
+
