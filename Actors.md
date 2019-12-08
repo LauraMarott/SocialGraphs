@@ -53,6 +53,17 @@ This table above on the other hand shows that the bottom 10 movies based on degr
 
 #### Betweenness Centrality
 
+<figure style="text-align: center;">
+  <img src="./images/graph_betweenness1.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/betweenness_nodes_top.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/betweenness_nodes_bottom.png" width="500"/>
+</figure>
 
 
 #### Eigenvector Centrality
