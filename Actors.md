@@ -102,5 +102,18 @@ From the bottom eigenvector centralities no clear patterns is seen, since both m
 To sum up, the high ranked movies tend to have a high influence at each other, which might mean that they use popular actors. However, it is difficult to say anything about the rest of the movies. 
 
 ### Understanding the Network further
+#### Degree Distribution
+
+<figure style="text-align: center;">
+  <img src="./images/degree_distribution.png" width="500"/>
+</figure>
+
+#### Scale-freeness
+
+<figure style="text-align: center;">
+  <img src="./images/scale_free.png" width="500"/>
+</figure>
+
+#### Assortative or Disassortative Network? 
 
 ### Conclusion
