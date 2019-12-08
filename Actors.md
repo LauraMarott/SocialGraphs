@@ -79,6 +79,18 @@ To sum up, the betweenness centralities show no tendencies on the rankings being
 
 #### Eigenvector Centrality
 
+<figure style="text-align: center;">
+  <img src="./images/graph_eigenvector1.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/eigenvector_nodes_top.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/eigenvector_nodes_bottom.png" width="500"/>
+</figure>
+
 ### Understanding the Network further
 
 ### Conclusion
