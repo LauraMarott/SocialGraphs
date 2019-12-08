@@ -11,7 +11,11 @@ The network is simple since it is not possible for a movie to link to itself. Be
 ### Overall Network and Biggest Component
 
 <figure style="text-align: center;">
-  <img src="./images/overall_network.png" width="500" alt="Genre frequency"/>
+  <img src="./images/overall_network.png" width="500"/>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./images/big_component.png" width="500"/>
 </figure>
 
 ### Degrees and Centralities Plots
