@@ -16,3 +16,4 @@ Each movie can be assigned several genres by IMDb. This means that one movie can
   <img src="./images/genres_bar.png" width="500" alt="Genre frequency"/>
 </figure>
 
+### Budget and Income
