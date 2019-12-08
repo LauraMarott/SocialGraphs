@@ -30,17 +30,26 @@ The attentive reader will notice color change of the nodes. The explanation for 
 ### Degrees and Centralities Plots
 #### Degree
 
+The network is plotted with nodesize depending on the degree of the nodes, meaning how many connections a movie has to other movies. 
+
 <figure style="text-align: center;">
   <img src="./images/graph_degree1.png" width="500"/>
 </figure>
+
+The degree sizes shows that there area difference in the number of connections between the movies, however no clear pattern regarding the ratings can be seen with the naked eye, meaning that this plot does not confirm the hypothesis of good movies using the same popular actors. 
+Another way to invesstigate this is the look at the top and bottom 10 movies and there degree and ranking:
 
 <figure style="text-align: center;">
   <img src="./images/degree_nodes_top.png" width="500"/>
 </figure>
 
+The table above shows that the top 10 movies based on degrees are all ranked either high or medium, which might indicate that the actors after all have some influence on the ranking.
+
 <figure style="text-align: center;">
   <img src="./images/degree_nodes_bottom.png" width="500"/>
 </figure>
+
+This table above on the other hand shows that the bottom 10 movies based on degrees have no clear pattern in which ranks are seen. 
 
 #### Betweenness Centrality
 
