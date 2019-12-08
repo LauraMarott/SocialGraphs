@@ -58,4 +58,10 @@ The ratings are essential to analyse, since this whole investigation of movies a
   <img src="./images/ratings.png" width="500" alt="Genre frequency"/>
 </figure>
 
+The average rating is very high (6.5), and it is even more interesting that the 25 % quantile is 5.9. The ratings are therefore very high, which indicates that either few bad movies exists or people are too nice when rating. This is an interesting finding to keep in mind in later analyses. 
 
+### Conclusion
+
+Hopefully, you have now get an idea of how the data looks like which reflect the market of movies. These insights are the first step to understand what makes a movie successful. 
+
+You can now go back to [home](https://lauramarott.github.io/SocialGraphs/) and continue the investigation. Enjoy!
