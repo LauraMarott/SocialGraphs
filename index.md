@@ -6,6 +6,7 @@ This website strives to investigate IMDb-data to find out what patterns contribu
 Are you ready to join us through this investigation? Then, let's roll!
 
 #### What is IMDb? And what is the IMDb-score?
+Oh, wait. Before we get started for real, it is important to know the concepts of this whole investigation.
 
 
 ### [Understanding Data](https://lauramarott.github.io/SocialGraphs/BasicStats)
