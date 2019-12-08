@@ -4,8 +4,8 @@
 To understand the data it is here examined on the following parameters:
 * Genre
 * Budget and Income
-* Budget and Ratings
 * Profit 
+* Budget and Ratings
 * Ratings
 
 ### Genres
@@ -25,6 +25,8 @@ A scatter plot is made to investigate the relationship between the budget and th
 </figure>
 
 It is seen that are some connection between the budget and the gross income for a movie. The relation is however not linear, as the gross income does not 'grow' as fast compared to the budget.
+
+### Profit
 
 ### Budget and Ratings
 
