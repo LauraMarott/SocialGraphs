@@ -4,6 +4,19 @@ Do you love movies? Are movies a big part of your life either private or profess
 
 This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful if any at all. Are you ready to join us through this investigation? Then, let's roll!
 
+### Understanding Data
+
+### Contents of the website
+
+### Investigation of Actors and rankings
+
+### Investigation of communities
+
+### Investigation of genres
+
+
+
+
 You can use the [editor on GitHub](https://github.com/LauraMarott/SocialGraphs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
