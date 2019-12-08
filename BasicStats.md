@@ -28,6 +28,20 @@ It is seen that are some connection between the budget and the gross income for 
 
 ### Profit
 
+The profit distribution is plotted below:
+
+<figure style="text-align: center;">
+  <img src="./images/profit.png" width="500" alt="Genre frequency"/>
+</figure>
+
+It is an interesting finding, that so many movies have a profit below or around 0. Average profit is 1.3 trillion dollars. 
+
 ### Budget and Ratings
 
+The relationship between budget and ratings are also interesting to take a look at:
 
+<figure style="text-align: center;">
+  <img src="./images/budget_rating.png" width="500" alt="Genre frequency"/>
+</figure>
+
+The plot shows a relation between the budget and rating. It seems like high budget movies are 'secured' high ratings. This might be due to the special effects afforded to make that extra touch on the movies.
