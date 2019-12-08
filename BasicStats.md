@@ -13,6 +13,6 @@ Each movie can be assigned several genres by IMDb. This means that one movie can
 
 <figure style="text-align: center;">
   <img src="images/genres_bar.png" width=500 alt="Genre frequency"/>
-  <h5 style="text-align: center;">Genre frequency</h5>
+  <h5 style="text-align: center;"</h5>
 </figure>
 
