@@ -51,20 +51,31 @@ The table above shows that the top 10 movies based on degrees are all ranked eit
 
 This table above on the other hand shows that the bottom 10 movies based on degrees have no clear pattern in which ranks are seen. 
 
+To sum up there might be a very small indicator of popular actors having influence on the popularity when looking at the high/medium ranked movies.
+
 #### Betweenness Centrality
+
+The betweenness is meant to examined the centrality of a movie based on how many shortest paths going through this movie. 
 
 <figure style="text-align: center;">
   <img src="./images/graph_betweenness1.png" width="500"/>
 </figure>
 
+Here no pattern is seen at all. The top and bottom betweenness centralities are also investigated:
+
 <figure style="text-align: center;">
   <img src="./images/betweenness_nodes_top.png" width="500"/>
 </figure>
+
+It is seen from the above table that nothing is to be said here, since both high, medium and low ranked movies are occuring in the table. 
 
 <figure style="text-align: center;">
   <img src="./images/betweenness_nodes_bottom.png" width="500"/>
 </figure>
 
+The same no-pattern can be seen from the bottom movies of betweenness centrality, where no shortest paths are going through any of these movies. 
+
+To sum up, the betweenness centralities show no tendencies on the rankings being influenced by this popularity.
 
 #### Eigenvector Centrality
 
