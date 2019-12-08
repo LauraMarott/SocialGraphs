@@ -12,7 +12,7 @@ After preparation the dataset only contains movies from 2010 and newer. Download
 
 Furthermore, the IMDbPY package is used to scrape the reviews from IMDb.com. 
 
-To understand the data, the basic stats are explored. See the analysis here
+To understand the data, the basic stats are explored. See the analysis [here](https://lauramarott.github.io/SocialGraphs/BasicStats).
 
 ### Contents of the website
 
