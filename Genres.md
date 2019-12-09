@@ -1,5 +1,11 @@
 ## Investigation of Genres
 
+### Understanding the Genres
+
+<figure style="text-align: center;">
+  <img src="./images/genre_investi.png" width="500" />
+</figure>
+
 ### Wordclouds
 <figure style="text-align: center;">
   <img src="./images/genre_wordclouds1.png" width="500" />
@@ -18,7 +24,7 @@
 ### Sentiment Analysis
 
 <figure style="text-align: center;">
-  <img src="./images/genre_mean_std.png" width="500" />
+  <img src="./images/genre_mean_std.png" width="200" />
 </figure>
 
 <figure style="text-align: center;">
