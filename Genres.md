@@ -14,9 +14,17 @@ Let us dive into it!
 
 ### Understanding the Genres
 
+The first thing is to understand the behaviour of the genres in terms of successfulness, which is here evaluated on the parameters IMDb-score (rating), Facebook likes, budget and profit:
+
 <figure style="text-align: center;">
   <img src="./images/genre_investi.png" width="500" />
 </figure>
+
+First of all, the above shows that all movies have a rating around the median at 6.5 found in the [Basic Stats](https://lauramarott.github.io/SocialGraphs/BasicStats) but some outliers are seen. For instance, Biography and History have a high average rating. The reason for this might be that they are "niche-movies", where the viewers are really interested in that kind of movies and therefore give high ratings. 
+
+In terms of profit, Animation and SciFi have the highest profit. These movies contains many special effects which indicates that this is what the viewers want to see. 
+
+This have provided an overview of how the genres behaves compared to each other. We are now ready to continue the investigation. 
 
 ### Wordclouds
 
