@@ -3,6 +3,10 @@
 
 ### Wordclouds
 
+image_sliders:
+  - rank_slider
+{% include slider.html selector="rank_slider" %}
+
 {% slider %}
   ![alt text 1](./images/low_wordcloud.png)
   ![alt text 2](./images/medium_wordcloud.png)
