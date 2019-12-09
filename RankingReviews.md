@@ -30,9 +30,16 @@ The outcome of the wordclouds are not very informative regarding the experiences
 Another way to explore the reviews is the collocation which in this case find the most frequent bigrams. Hopefully, this will tell us more about the reviews since the words used together is found which makes it possible to learn a little about the context. 
 
 <figure style="text-align: center;">
-  <img src="./images/rank_collocations.png" width="1000"/>
+  <img src="./images/rank_collocations.png" width="500"/>
 </figure>
 
-
+The collocations are not that informative either. It is difficult to see if there is any patterns in what words are used when reviewing the different ranked movies. 
 
 ### Sentiment Analysis
+
+It is necessary to rethink the text analysis. The individual words have not been informative, thus a sentiment analysis is made on each ranking category to see if the ranking correlates to the sentiment of the reviews. The sentiment analysis is based on the idea that some words are more or less positive and negative than others. Therefore, the words are assigned "scores" and the mean sentiment for each review in each renking category is calculated resulting in the sentiment distributions below:
+
+
+
+
+### Conclusion
