@@ -50,6 +50,14 @@ This analysis are looking into both wordclouds and collocations to see if there 
 
 #### Wordclouds
 
+<figure style="text-align: center;">
+  <img src="./images/community_wordcloud1.png">
+  <img src="./images/community_wordcloud2.png">
+  <img src="./images/community_wordcloud3.png">
+  <img src="./images/community_wordcloud4.png">
+  <img src="./images/community_wordcloud5.png">
+</figure>
+
 #### Collocations
 
 ### Conclusion
