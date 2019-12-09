@@ -18,9 +18,12 @@ From here it is interesting to see what makes the communities and if this could 
 
 ### Understanding the Communities
 
+The first important thing to do is to see how many communities there are and how many movies each community contains. This makes it easier to investigate further:
+
 <figure style="text-align: center;">
   <img src="./images/community_numbers.png" width="500" alt="Genre frequency"/>
 </figure>
+
 
 
 ### Review Analysis
