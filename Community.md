@@ -38,6 +38,8 @@ The table below shows the percentage of the different genres in each community. 
   <img src="./images/community_genres.png" width="500" />
 </figure>
 
+
+
 ### Review Analysis
 #### Wordclouds
 
