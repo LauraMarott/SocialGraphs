@@ -28,11 +28,20 @@ This have provided an overview of how the genres behaves compared to each other.
 
 ### Wordclouds
 
+The wordclouds are made based on the IMDb-user reviews. The wordclouds shows which words af frequent and unique for each genre, taking into account how unique the given word is across the different genres. For more information of the review behaviour, see [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews).
+
+The wordclouds for each genre can be seen below:
+
 <figure style="text-align: center;">
   <img src="./images/genre_wordclouds1.png" width="500" />
 </figure>
 
+The words in the wordclouds are very consistant with the words known for each genre, for instance in the Horror wordcloud where the biggest words are "scare" and "zombie". 
+It is also clear that some of the movies reappear in more genres, for instance "avengers" being big in both Action, Adventure and SciFi. This complicates the possibility of making clear conclusions for the different genres when the movies reappear in such an extent. 
+
 ### Collocations
+
+Another way to analyse the reviews is through collocations, here being bigrams that shows the frequent two words occuring together. The top ten collocations for each genre is shown below:
 
 <figure style="text-align: center;">
   <img src="./images/genre_collo1.png" />
@@ -41,6 +50,8 @@ This have provided an overview of how the genres behaves compared to each other.
   <img src="./images/genre_collo4.png" />
   <img src="./images/genre_collo5.png" />
 </figure>
+
+The collocations confirms the themes of the different genres, but are also providing further insight, for instance Drama including bigrams like "character development", "pleasently surprised" and "subject matter".
 
 ### Sentiment Analysis
 
