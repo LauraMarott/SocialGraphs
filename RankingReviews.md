@@ -27,8 +27,12 @@ The outcome of the wordclouds are not very informative regarding the experiences
 
 ### Collocations
 
+Another way to explore the reviews is the collocation which in this case find the most frequent bigrams. Hopefully, this will tell us more about the reviews since the words used together is found which makes it possible to learn a little about the context. 
+
 <figure style="text-align: center;">
-  <img src="./images/rank_collocations.png" width="500"/>
+  <img src="./images/rank_collocations.png" width="700"/>
 </figure>
+
+
 
 ### Sentiment Analysis
