@@ -30,7 +30,10 @@ This investigation centers around actors and movie ratings. For this, a Network 
 
 Here an anlysis of the user reviews of the movies is conducted to investigate the ranking divisions using text analysis. You can see this investigation [here](https://lauramarott.github.io/SocialGraphs/RankingReviews).
 
-### Investigation of Communities
+### [Investigation of Communities](https://lauramarott.github.io/SocialGraphs/Community)
+
+This investigation aims to look into the [Network](https://lauramarott.github.io/SocialGraphs/Actors) with a new set of glasses. Here, the communities are analysed to find out if there are any patterns between movies which are densely connected. 
+The reasons for the connections are investigated using the network and the text analysis. You can follow the analysis [here](https://lauramarott.github.io/SocialGraphs/Community).
 
 ### Investigation of Genres
 
