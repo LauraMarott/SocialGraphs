@@ -55,24 +55,44 @@ The collocations confirms the themes of the different genres, but are also provi
 
 ### Sentiment Analysis
 
+A sentiment analysis is conducted to analyse the mood of the reviews in the different genres. The sentiment analysis is based on the fact that some words are more or less positive or negative than other, which is quantified for the genres, as seen below: 
+
 <figure style="text-align: center;">
   <img src="./images/genre_mean_std.png" width="200" />
 </figure>
+
+The average sentiment score correlates to the themes and content of the genres. For instance, the highest sentiment scores are Musical and Western which is romanticised genres. Likewise, the lowest scores are War and Horror which is very frightening genres. 
+Another way to show the sentiments are by there distributions below:
 
 <figure style="text-align: center;">
   <img src="./images/genre_sentiment1.png" width="500" />
 </figure>
 
-#### Positive Wordclouds
+Again, Musical is very high scored and the number of low sentiment reviews are very limited. 
+The sentiment analysis have shown us, that the sentiments correlates with the content of the genres but not with the ratings of the genres. Therefore, it is interesting to investigate the positive and negative reviews in each genre using wordclouds. 
+
+#### Positive and Negative Wordclouds
+
+The **positive** reviews for each genre is seen below:
 
 <figure style="text-align: center;">
   <img src="./images/genre_positive.png" width="500" />
 </figure>
 
-#### Negative Wordclouds
+The **negative** reviews for each genre is seen below:
 
 <figure style="text-align: center;">
   <img src="./images/genre_negative.png" width="500" />
 </figure>
 
+The positive and negative word clouds can immediately be used for two things:
+
+First, the good and bad movies in each genre can be identified by using this method. In Action, the positive wordcloud clearly shows that James Bond movies are positively reviewed, while the negative wordclouds indicates the dinosaur movies (maybe Jurrasic World) are being reviewed negatively. 
+
+Secondly, the division in positive and negative words can provide a deeper insight into the experiences when watching the movies. For instance, the positive Action wordcloud includes words like "relevant" and "precisely" and the negative Action wordcloud includes "clichés" and "absurd". 
+
+Feel free to examine each genre like the Action genre is examined above to really understand the differences. 
+
 ### Conclusion
+
+A lot of insight has been provided from the analysis of the genres, and it seems like the genres influences the overall success of a movie. However, the fact that the movies are assigned several genres can be misleading for the investigation. Therefore other investigations of other factors has to been conducted as well. You can go back to [home](https://lauramarott.github.io/SocialGraphs/) to look into these other investigations. Good hunt!
