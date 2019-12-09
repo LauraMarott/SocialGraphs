@@ -39,7 +39,19 @@ The reasons for the connections are investigated using the network and the text 
 
 An frequent assumption is that genres are connected to the success of a given movie. Therefore, this is investigated [here](https://lauramarott.github.io/SocialGraphs/Genres). This analysis is mainly based on text analysis of the reviews and basic statistics for the movies in the different genres.
 
-### Conclusion and further work
+### Main Findings and Further Work
+
+At this point the above analyses shoud have provided you with your own ideas of what makes a movie successful. As shown, many parameters can contribute to the success of a movie. Some of them are anlysed at this website, and we have discovered patterns that indicates that the use of popular actors can be important as well as the genre of the movie seems to have an influence on the success. 
+Other things that could be investigated are
+* Directors
+* More in depth about profits
+* What time of the year a movie is released
+* The marketing of the movie
+You can probably think of many more things, that you could imagine to investigate, right? 
+
+Regarding the term *success* it might be relevant for IMDb to rethink the ratings, since it is mainly the upper part of the scale that is used according to the above analyses. Maybe a more adequate use of the scale will make it easier to see differences in the analyses conducted here. Or what do you think? 
+
+We hope that no matter why you have visited this website you have learned something and most important gives you motivation to learn more about *What makes a movie successful*.
 
 ### Explainer Notebook
 
