@@ -1,0 +1,12 @@
+- selector: rank_slider
+  captions: true
+  images:
+    - src: ./images/low_wordcloud.png
+      alt: Low ranked movies
+    - src: ./images/medium_wordcloud.png
+      alt: Medium ranked movies
+    - src: ./images/high_wordcloud.png
+      alt: High ranked movies
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
