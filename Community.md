@@ -38,7 +38,9 @@ The table below shows the percentage of the different genres in each community. 
   <img src="./images/community_genres.png" width="500" />
 </figure>
 
+This plot shows that some of the genres are assigned many movies and therefore have a high occurency, like drama. But the plot also shows some interesting divisions that could indicate that the communities might be based on genres. This can be seen in for instance community 9 that contains alot of drama, comedy and romance which might indicate that this is so called Chick Flick movies. 
 
+The genres will be investigated further [here](https://lauramarott.github.io/SocialGraphs/Genres).
 
 ### Review Analysis
 #### Wordclouds
