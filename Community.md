@@ -60,4 +60,10 @@ This analysis are looking into both wordclouds and collocations to see if there 
 
 #### Collocations
 
+<figure style="text-align: center;">
+  <img src="./images/community_collo1.png">
+  <img src="./images/community_collo2.png">
+  <img src="./images/community_collo3.png">
+</figure>
+
 ### Conclusion
