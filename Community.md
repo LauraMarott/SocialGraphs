@@ -21,22 +21,26 @@ From here it is interesting to see what makes the communities and if this could 
 The first important thing to do is to see how many communities there are and how many movies each community contains. This makes it easier to investigate further:
 
 <figure style="text-align: center;">
-  <img src="./images/community_numbers.png" width="500" alt="Genre frequency"/>
+  <img src="./images/community_numbers.png" width="500" />
 </figure>
 
 Now, each of the communities can be investigated on the parameters IMDb-score, Facebook likes, budget and profit all covering the term of being successful. The results can be seen below:
 
 <figure style="text-align: center;">
-  <img src="./images/community_comparison.png" width="500" alt="Genre frequency"/>
+  <img src="./images/community_comparison.png" width="500"/>
 </figure>
 
 In terms of ratings (IMDb-score) all communities are rated around the median. But looking at both Facebook likes and profit, hugh differences can be seen. The Facebook likes fluctuate between aorund 10000 to 50000 likes. The profit varies alot as well where some of them are negative. The extremes might indicate that all movies in the communities acts alike in this regard. Therefore this investigation gives a nice insight into the behaviour of the different communities. However, we still does not have a clear picture of the underlying reason for these communities. One idea is to see how the genres aredistributed to each of the community. 
 
 The table below shows the percentage of the different genres in each community. One important note here is, that each movie often is assigned several genres, thus the number of genre count for each community is higher than the number of movies.
 
-
+<figure style="text-align: center;">
+  <img src="./images/community_genres.png" width="500" />
+</figure>
 
 ### Review Analysis
 #### Wordclouds
 
 #### Collocations
+
+### Conclusion
