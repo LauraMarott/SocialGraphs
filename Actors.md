@@ -139,4 +139,4 @@ This analysis indicates that many things may play a role when it comes to the po
 Based on the degrees and the eigenvector centralities it can be seen that the actors might have an influence on what makes a movie successful. This is based on the high ranked and medium ranked nodes being the biggest in these analyses. 
 
 Looking deeper into the structure and behaviour of the network, however, tells that other factors influences the success of a movie - not only the actors. 
-Therefore, you may find it necessary to return to [home](https://lauramarott.github.io/SocialGraphs/) and investigate the network using other methods!
+Therefore, you may find it necessary to return to [home](https://lauramarott.github.io/SocialGraphs/) and investigate the network using other methods. Good luck!
