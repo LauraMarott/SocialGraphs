@@ -27,4 +27,8 @@ The outcome of the wordclouds are not very informative regarding the experiences
 
 ### Collocations
 
+<figure style="text-align: center;">
+  <img src="./images/rank_collocations.png" width="500"/>
+</figure>
+
 ### Sentiment Analysis
