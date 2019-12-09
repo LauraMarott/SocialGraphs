@@ -39,7 +39,17 @@ The collocations are not that informative either. It is difficult to see if ther
 
 It is necessary to rethink the text analysis. The individual words have not been informative, thus a sentiment analysis is made on each ranking category to see if the ranking correlates to the sentiment of the reviews. The sentiment analysis is based on the idea that some words are more or less positive and negative than others. Therefore, the words are assigned "scores" and the mean sentiment for each review in each renking category is calculated resulting in the sentiment distributions below:
 
+<figure style="text-align: center;">
+  <img src="./images/low_distri.png">
+  <img src="./images/medium_distri.png">
+  <img src="./images/high_distri.png">
+</figure>
 
+The 
+
+<figure style="text-align: center;">
+  <img src="./images/rank_mean_std.png" width="200"/>
+</figure>
 
 
 ### Conclusion
