@@ -26,7 +26,9 @@ To understand the data, the basic stats are explored. See the analysis [here](ht
 
 This investigation centers around actors and movie ratings. For this, a Network Analysis is made based on the movies as nodes and the shared actors as edges. Click [here](https://lauramarott.github.io/SocialGraphs/Actors) to learn more abot this topic.
 
-### Review Investigation based on Rankings
+### [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews)
+
+Here an anlysis of the user reviews of the movies is conducted to investigate the ranking divisions using text analysis. You can see this investigation [here](https://lauramarott.github.io/SocialGraphs/RankingReviews).
 
 ### Investigation of Communities
 
