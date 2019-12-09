@@ -4,7 +4,11 @@
 ### Wordclouds
 
 
-{% include slider.html selector="rank_slider" %}
+<div id="slider">
+  <img src="./images/low_wordcloud.png" alt="alt text 1">
+  <img src="./images/medium_wordcloud.png" alt="alt text 2">
+  <img src="./images/high_wordcloud.png" alt="alt text 3">
+</div>
 
 {% slider %}
   ![alt text 1](./images/low_wordcloud.png)
