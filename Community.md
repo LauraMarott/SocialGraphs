@@ -43,6 +43,11 @@ This plot shows that some of the genres are assigned many movies and therefore h
 The genres will be investigated further [here](https://lauramarott.github.io/SocialGraphs/Genres).
 
 ### Review Analysis
+
+Another way to investigate the communities is through the reviews made by the users. To get an overall understanding of the review behaviour, see the [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews). 
+
+This analysis are looking into both wordclouds and collocations to see if there are any patterns in the reviews of the communities. 
+
 #### Wordclouds
 
 #### Collocations
