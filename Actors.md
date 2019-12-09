@@ -102,18 +102,41 @@ From the bottom eigenvector centralities no clear patterns is seen, since both m
 To sum up, the high ranked movies tend to have a high influence at each other, which might mean that they use popular actors. However, it is difficult to say anything about the rest of the movies. 
 
 ### Understanding the Network further
+
+For the more interested reader, you can gain some deeper insight of the network by looking into the degree distribution, the scale-freeness and whether the network is assortative or disassortative.
+
 #### Degree Distribution
+
+This distribution is another way to look at the degrees and see how they behaves.
 
 <figure style="text-align: center;">
   <img src="./images/degree_distribution.png" width="500"/>
 </figure>
 
+It is seen that the majority of the movies are connected to between 1 and 4 other movies. A few movies uses many popular actors and are connected to over 20 other movies. The average degree of the network is 8.65, meaning that each movie on average is connected to 8 other movies. This high average may be due to the three possibilites of connecting to other - the three actors. 
+
 #### Scale-freeness
+
+Already from the above degree distribution a tendency of a power-law distribution can be seen. The degree distribution can be translated to a loglog plot to strengthen this assumption:
 
 <figure style="text-align: center;">
   <img src="./images/scale_free.png" width="500"/>
 </figure>
 
+The loglog plot shows that the degrees are following a power-law distribution due to its declining behaviour. Thus, the network is scale-free which means that hubs are expected since the connections has preferential attachment (aligning with the friendship paradox). As we have seen above, some movies are using popular actors and are more likely to be connected to many other movies and thereby becoming a hub. 
+However, this has nothing to do directly with the rating, but is just explaining the behaviour of the network. 
+
 #### Assortative or Disassortative Network? 
 
+To describe the structure of the network's connections even more, the Degree Correlation Cofficient (using Pearson) is found to be 0.36. Since this number is higher than 0, it indicates that the network is disassortative meaning that the network has a hub and spoke structure. This means that small nodes are more likely to connect to the hubs. 
+
+This is different from what was assumed. It was assumed that big nodes shared the same popular actors. Instead it seems like the hubs are based on the fact that the actors are playing in many movies with many different other actors. 
+
+This analysis indicates that many things may play a role when it comes to the popularity of a movie - not only the actors. If the network had been representing the friendship of the actors it would probably have been assortative.
+
 ### Conclusion
+
+Based on the degrees and the eigenvector centralities it can be seen that the actors might have an influence on what makes a movie successful. This is based on the high ranked and medium ranked nodes being the biggest in these analyses. 
+
+Looking deeper into the structure and behaviour of the network, however, tells that other factors influences the success of a movie - not only the actors. 
+Therefore, you may find it necessary to return to [home](https://lauramarott.github.io/SocialGraphs/) and investigate the network using other methods!
