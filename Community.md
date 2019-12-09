@@ -24,7 +24,13 @@ The first important thing to do is to see how many communities there are and how
   <img src="./images/community_numbers.png" width="500" alt="Genre frequency"/>
 </figure>
 
+Now, each of the communities can be investigated on the parameters IMDb-score, Facebook likes, budget and profit all covering the term of being successful. The results can be seen below:
 
+<figure style="text-align: center;">
+  <img src="./images/community_comparison.png" width="500" alt="Genre frequency"/>
+</figure>
+
+In terms of ratings all commun
 
 ### Review Analysis
 #### Wordclouds
