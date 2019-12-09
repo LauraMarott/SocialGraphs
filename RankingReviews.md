@@ -3,8 +3,7 @@
 
 ### Wordclouds
 
-image_sliders:
-  - rank_slider
+
 {% include slider.html selector="rank_slider" %}
 
 {% slider %}
