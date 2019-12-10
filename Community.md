@@ -2,6 +2,11 @@
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
 This investigation aims to understand how the movies are connected to each other in communities. The analysis adds a total new perspective to the whole investigation of what makes a movie successful. 
+The following parts will be included in this study:
+* Community graph
+* Understanding the communities
+* Review analysis
+
 It is assumed that there are some clear differences between the communities, but how they are connected are exciting to figure out. Come on, let's start!
 
 ### Community Graph
