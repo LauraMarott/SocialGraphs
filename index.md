@@ -15,7 +15,7 @@ Are you ready to join us through this investigation? Then, let's roll!
 #### What is IMDb? And what is the IMDb-score?
 Oh, wait. Before we get started for real, it is important to know the concepts of this whole investigation:
 
-[IMDb](https://www.imdb.com/) is one of the biggest online databases of information related to movies and tv-programs. IMDb is especially known for their respectable ratings based on the viewers scores for the movies. 
+[IMDb](https://www.imdb.com/) is one of the biggest online databases of information related to movies and tv-programs. IMDb is especially known for their respectable ratings based on the movie-watchers' scores for the movies. 
 
 The scores are on a scale from 1 to 10 and is calculated as a weighted mean rating, meaning that they try to keep the scores as representative as possible by not letting all ratings have the same weight. The algorithms behind are secret. For more information, visit [IMDb's help center](https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#).
 
