@@ -1,7 +1,7 @@
 ## Review Investigation based on Rankings
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
-This investagation aims to analyse the three ranking groups found based on the 33 % and 66 % percentile from [Basic Stats](https://lauramarott.github.io/SocialGraphs/BasicStats). Here, the user reviews of the movies are analysed using text analysis. Hopefully, this text analysis will provide insight in what the users think and experiences regarding the three rating groups.
+This investigation aims to analyse the three ranking groups found based on the 33 % and 66 % percentile from the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section. Here, the user reviews of the movies are analysed using text analysis. Hopefully, this text analysis will provide insight in what the movie-wathcers think and experience regarding the movies in the three rating groups.
 
 This text analysis is divided into three parts:
 * Wordclouds 
