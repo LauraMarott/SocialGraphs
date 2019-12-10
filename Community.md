@@ -11,7 +11,7 @@ It is assumed that there are some clear differences between the communities, but
 
 ### Community Graph
 
-The communities are made based on the idea of optimising their modularity. The modularity optimisation seeks to find the communities that are strongly connected internally, but weakly connected externally i.e. to the other communities. The identified communities can be seen below:
+The communities are made based on the idea of optimising their internal strength. This is called modularity optimisation which seeks to find the communities that are strongly connected internally, but weakly connected externally i.e. to the other communities. The identified communities can be seen below (with degrees determine the node sizes - see [Investigation of Actors](https://lauramarott.github.io/SocialGraphs/Actors)-section for more info):
 
 <figure style="text-align: center;">
   <img src="./images/community_graph1.png" width="500" alt="Genre frequency"/>
