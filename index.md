@@ -6,7 +6,7 @@ Do you love movies? Are movies a big part of your life either private or profess
   <img src="./images/WeLoveMovies.png" width="300" />
 </figure>
 
-This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful if any at all. In this regard successfull is based on good imdb-score and reviews. There are many ways to investigate this topic. Thus, this website allows you to jump around between different analyses using many different methods to hopefully enlightening all of us. The different sections can be read independently then. At the bottom of this page you can read our interpretations and questions for further investigation.
+This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful - if any at all. In this regard the term *successful* is based on good IMDb-score and reviews. There are many ways to investigate this topic. Thus, this website allows you to jump around between different analyses using many different methods to hopefully enlightening all of us. The different sections are meant to be able to be read independently. At the bottom of this page you can read our interpretations and questions for further investigation.
 
 Are you ready to join us through this investigation? Then, let's roll!
 
