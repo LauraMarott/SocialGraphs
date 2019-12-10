@@ -58,13 +58,13 @@ To sum up there might be an indicator of popular actors having influence on the 
 
 #### Betweenness Centrality
 
-The betweenness is meant to examined the centrality of a movie based on how many shortest paths going through this movie. 
+The betweenness is meant to examine the centrality of a movie based on how many shortest paths going through this movie. A central movie using this method therefore illustrates that this movie connects many other movies to each other.
 
 <figure style="text-align: center;">
   <img src="./images/graph_betweenness1.png" width="500"/>
 </figure>
 
-Here no pattern is seen at all. The top and bottom betweenness centralities are also investigated:
+Here no pattern is seen with the naked eye at all. However, the top and bottom betweenness centralities are investigated to confirm or decline this:
 
 <figure style="text-align: center;">
   <img src="./images/betweenness_nodes_top.png" width="500"/>
@@ -78,7 +78,7 @@ It is seen from the above table that nothing is to be said here, since both high
 
 The same no-pattern can be seen from the bottom movies of betweenness centrality, where no shortest paths are going through any of these movies. 
 
-To sum up, the betweenness centralities show no tendencies on the rankings being influenced by this popularity.
+To sum up, the betweenness centralities show no tendencies on the rankings being influenced by this popularity which means that the idea of the movies connecting other movies to each other are not worth to investigate further.
 
 #### Eigenvector Centrality
 
