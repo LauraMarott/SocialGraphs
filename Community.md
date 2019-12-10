@@ -35,7 +35,7 @@ Now, each of the communities can be investigated on the parameters IMDb-score, F
   <img src="./images/community_comparison.png" width="500"/>
 </figure>
 
-In terms of ratings (IMDb-score) all communities are rated around the median. But looking at both Facebook likes and profit, hugh differences can be seen. The Facebook likes fluctuate between aorund 10000 to 50000 likes. The profit varies alot as well where some of them are negative. The extremes might indicate that all movies in the communities acts alike in this regard. Therefore this investigation gives a nice insight into the behaviour of the different communities. However, we still does not have a clear picture of the underlying reason for these communities. One idea is to see how the genres aredistributed to each of the community. 
+In terms of ratings (IMDb-score) all communities are rated around the median. But looking at both Facebook likes and profit, hugh differences can be seen. The extremes might indicate that all movies in the communities acts alike in this regard. Therefore this investigation gives a nice insight into the behaviour of the different communities. However, we still does not have a clear picture of the underlying reason for these communities to exists. One idea is to see how the genres are distributed to each of the community. 
 
 The table below shows the percentage of the different genres in each community. One important note here is, that each movie often is assigned several genres, thus the number of genre count for each community is higher than the number of movies.
 
@@ -43,13 +43,13 @@ The table below shows the percentage of the different genres in each community. 
   <img src="./images/community_genres.png" width="500" />
 </figure>
 
-This plot shows that some of the genres are assigned many movies and therefore have a high occurency, like drama. But the plot also shows some interesting divisions that could indicate that the communities might be based on genres. This can be seen in for instance community 9 that contains alot of drama, comedy and romance which might indicate that this is so called Chick Flick movies. 
+This plot shows that some of the genres are assigned many movies and therefore have a high occurency, like drama. But the plot also shows some interesting divisions that could indicate that the communities might be based on genres. For instance the combination of drama, comedy and romance which might indicate that this community contains so called Chick Flick movies. 
 
 The genres will be investigated further [here](https://lauramarott.github.io/SocialGraphs/Genres).
 
 ### Review Analysis
 
-Another way to investigate the communities is through the reviews made by the users. To get an overall understanding of the review behaviour, see the [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews). 
+Another way to investigate the communities is through the reviews made by the watchers. To get an overall understanding of the review behaviour, see the [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews). 
 
 This analysis are looking into both wordclouds and collocations to see if there are any patterns in the reviews of the communities. 
 
@@ -67,11 +67,11 @@ The wordclouds for each community can be seen below:
   <img src="./images/community_wordcloud5.png">
 </figure>
 
-It can be demanding to go in depth with all wordclouds, but the overall tendency is that the wordclouds supports the finding of the communities belonging to some movie category or genre. An example is community 8 that seems to be superhero movies including the words "Marvel", "Loki", "Widow", "Rogers" (the last three are superhero characters from the movies). 
+It can be demanding to go in depth with all wordclouds, but the overall tendency is that the wordclouds supports the finding of the communities belonging to some movie category or genre. Can you for instance find the community containing superhero movies? 
 
 #### Collocations
 
-The collocations are here the top bigrams for each community to gain another insight into the reviews.
+The collocations are here the top bigrams (words occuring two and two) for each community to gain another insight into the reviews.
 
 <figure style="text-align: center;">
   <img src="./images/community_collo1.png">
@@ -83,4 +83,4 @@ Again, this are not that informative, but looking close into the collocations th
 
 ### Conclusion
 
-It can be conlcuded that it is difficult to see what exactly connects the movies. It might be relevant to look into even more parameters to clarify what is behind the communities. However, the review analysis indicates that the communities might be based on some movie categories or genres. Therefore, it might be interesting for you, to jump to the [Investigation of Genres](https://lauramarott.github.io/SocialGraphs/Genres). Otherwise, you can go back to [home](https://lauramarott.github.io/SocialGraphs/) and look into other analyses. Enjoy!
+It can be conlcuded that it is difficult to see what exactly connect the movies. It might be relevant to look into even more parameters to clarify what is behind the communities. However, the review analysis indicates that the communities might be based on some movie categories or genres. Therefore, it might be interesting for you, to jump to the [Investigation of Genres](https://lauramarott.github.io/SocialGraphs/Genres). Otherwise, you can go back to [home](https://lauramarott.github.io/SocialGraphs/) and look into other analyses. Enjoy!
