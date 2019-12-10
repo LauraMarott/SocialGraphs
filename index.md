@@ -2,6 +2,10 @@
 
 Do you love movies? Are movies a big part of your life either private or professional? And are you interested in understanding what makes some movies successful while others tend to be unsuccessful? Then you have come to the right page!
 
+<figure style="text-align: center;">
+  <img src="./images/WeLoveMovies.png" width="500" />
+</figure>
+
 This website strives to investigate IMDb-data to find out what patterns contribute to making a movie successful if any at all. In this regard successfull is based on good imdb-score and reviews. There are many ways to investigate this topic. Thus, this website allows you to jump around between different analyses using many different methods to hopefully enlightening all of us. The different sections can be read independently then. At the bottom of this page you can read our interpretations and questions for further investigation.
 
 Are you ready to join us through this investigation? Then, let's roll!
