@@ -21,13 +21,13 @@ The network is simple since it is not possible for a movie to link to itself. Be
 First the overall network is plotted below:
 
 <figure style="text-align: center;">
-  <img src="./images/overall_network1.png" width="500"/>
+  <img src="./images/overall_network.png" width="500"/>
 </figure>
 
 This plot shows how some of the movies have no shared actors with other movies. The reasons for them to not be connected could be if they are from other countries than USA or UK, or if the actors are unknown. These movies are not interesting for the further investigation. The not-connected movies represents 18 % of the dataset, and when removing them the graph still consists of 774 nodes. Therefore, the biggest component is considered representative. This is plotted below:
 
 <figure style="text-align: center;">
-  <img src="./images/big_component1.png" width="500"/>
+  <img src="./images/big_component.png" width="500"/>
 </figure>
 
 The attentive reader will notice change of the colors of the nodes. The explanation for this is  that the nodes are now colored based on the rankings of the movies. The ranking is divided into three categories based on the findings from the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section with almost the same amount of movie in each rank-category. 
@@ -44,20 +44,20 @@ Degree and centralities are nice tools to use when investigating the popularity 
 The network is first plotted with nodesizes depending on the degree of the nodes, meaning how many connections a given movie has to other movies. 
 
 <figure style="text-align: center;">
-  <img src="./images/graph_degree1.png" width="500"/>
+  <img src="./images/graph_degree.png" width="500"/>
 </figure>
 
 The degree sizes shows that there are difference in the number of connections between the movies where the higher ranked movies tend to have a higher degree, meaning that this plot might confirm the hypothesis of good movies using the same popular actors. 
 Another way to investigate this is the look at the top and bottom 10 movies and there degree and ranking:
 
 <figure style="text-align: center;">
-  <img src="./images/degree_nodes_top.png" width="500"/>
+  <img src="./images/Top_10_degree.png" width="500"/>
 </figure>
 
 The table above shows that the top 10 movies based on degrees are all ranked either high or medium, which indicates that the actors after all have some influence on the ranking.
 
 <figure style="text-align: center;">
-  <img src="./images/degree_nodes_bottom.png" width="500"/>
+  <img src="./images/Bottom_10_degree.png" width="500"/>
 </figure>
 
 This table above on the other hand shows that the bottom 10 movies based on degrees have no clear pattern in which ranks have the lowest degrees. 
@@ -69,19 +69,19 @@ To sum up there might be an indicator of popular actors having influence on the 
 The betweenness is meant to examine the centrality of a movie based on how many shortest paths going through this movie. A central movie using this method therefore illustrates that this movie connects many other movies to each other.
 
 <figure style="text-align: center;">
-  <img src="./images/graph_betweenness1.png" width="500"/>
+  <img src="./images/graph_betweenness.png" width="500"/>
 </figure>
 
 Here no pattern is seen with the naked eye at all. However, the top and bottom betweenness centralities are investigated to confirm or decline this:
 
 <figure style="text-align: center;">
-  <img src="./images/betweenness_nodes_top.png" width="500"/>
+  <img src="./images/Top_10_betweenness.png" width="500"/>
 </figure>
 
 It is seen from the above table that nothing is to be said here, since both high, medium and low ranked movies are occuring in the table. 
 
 <figure style="text-align: center;">
-  <img src="./images/betweenness_nodes_bottom.png" width="500"/>
+  <img src="./images/Bottom_10_betweenness.png" width="500"/>
 </figure>
 
 The same no-pattern can be seen from the bottom movies of betweenness centrality, where no shortest paths are going through any of these movies. 
@@ -93,19 +93,19 @@ To sum up, the betweenness centralities show no tendencies on the rankings being
 The eigenvector centrality examines the influence of a node in a network meaning that a node with a high eigenvector centrality is linked to other nodes with high eigenvector centrality. This means that the influence of a node is determined from the influence of it neighbors. For the movies, this means that popular movies can influence the popularity of other movies if they are connected i.e. using the same actors. This is visualised below:
 
 <figure style="text-align: center;">
-  <img src="./images/grap_eigenvector1.png" width="500"/>
+  <img src="./images/grap_eigenvector.png" width="500"/>
 </figure>
 
 It is clear that some nodes are popular in terms of their eigenvector centrality. These nodes are linking to each other. From this plot, the high and medium ranked movies have the highest eigenvector centralities meaning that they might use the same popular actors. The top and bottom eigenvector centralities are investigated below:
 
 <figure style="text-align: center;">
-  <img src="./images/eigenvector_nodes_top.png" width="500"/>
+  <img src="./images/Top_10_Eigenvector.png" width="500"/>
 </figure>
 
 The table above shows a clear tendency of the high ranked movies having the highest eigenvector centralities. 
 
 <figure style="text-align: center;">
-  <img src="./images/eigenvector_nodes_bottom.png" width="500"/>
+  <img src="./images/Bottom_10_Eigenvector.png" width="500"/>
 </figure>
 
 From the bottom eigenvector centralities no clear patterns is seen, since both medium and low ranked movies are to find here. Many of these movies also have a low degree, which might be the reason for them to have such a low eigenvector centrality since they have a few connections. 
