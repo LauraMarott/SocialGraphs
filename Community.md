@@ -14,7 +14,7 @@ It is assumed that there are some clear differences between the communities, but
 The communities are made based on the idea of optimising their internal strength. This is called modularity optimisation which seeks to find the communities that are strongly connected internally, but weakly connected externally i.e. to the other communities. The identified communities can be seen below (with degrees determine the node sizes - see [Investigation of Actors](https://lauramarott.github.io/SocialGraphs/Actors)-section for more info):
 
 <figure style="text-align: center;">
-  <img src="./images/community_graph1.png" width="500" alt="Genre frequency"/>
+  <img src="./images/community_graph.png" width="500" />
 </figure>
 
 The modularity is a score for how well connected the communities are and it is between -1 and 1 where 0 corresponds to a random network. The modularity for this community detection is 0.66, thus the communities are well connected. The plot above also shows that the communitites are nicely defined. 
@@ -32,7 +32,7 @@ The first important thing to do is to see how many communities there are and how
 Now, each of the communities can be investigated on the parameters IMDb-score, Facebook likes, budget and profit all covering the term of being successful. The results can be seen below:
 
 <figure style="text-align: center;">
-  <img src="./images/community_comparison.png" width="500"/>
+  <img src="./images/Community_info.png" width="500"/>
 </figure>
 
 In terms of ratings (IMDb-score) all communities are rated around the median. But looking at both Facebook likes and profit, hugh differences can be seen. The extremes might indicate that all movies in the communities acts alike in this regard. Therefore this investigation gives a nice insight into the behaviour of the different communities. However, we still does not have a clear picture of the underlying reason for these communities to exists. One idea is to see how the genres are distributed to each of the community. 
@@ -40,7 +40,7 @@ In terms of ratings (IMDb-score) all communities are rated around the median. Bu
 The table below shows the percentage of the different genres in each community. One important note here is, that each movie often is assigned several genres, thus the number of genre count for each community is higher than the number of movies.
 
 <figure style="text-align: center;">
-  <img src="./images/community_genres.png" width="500" />
+  <img src="./images/Genre_matrix.png" width="500" />
 </figure>
 
 This plot shows that some of the genres are assigned many movies and therefore have a high occurency, like drama. But the plot also shows some interesting divisions that could indicate that the communities might be based on genres. For instance the combination of drama, comedy and romance which might indicate that this community contains so called Chick Flick movies. 
@@ -60,11 +60,7 @@ The wordclouds are made for the reviews of the movies in each community. The wor
 The wordclouds for each community can be seen below:
 
 <figure style="text-align: center;">
-  <img src="./images/community_wordcloud1.png">
-  <img src="./images/community_wordcloud2.png">
-  <img src="./images/community_wordcloud3.png">
-  <img src="./images/community_wordcloud4.png">
-  <img src="./images/community_wordcloud5.png">
+  <img src="./images/community_wordclouds.png">
 </figure>
 
 It can be demanding to go in depth with all wordclouds, but the overall tendency is that the wordclouds supports the finding of the communities belonging to some movie category or genre. Can you for instance find the community containing superhero movies? 
@@ -74,9 +70,9 @@ It can be demanding to go in depth with all wordclouds, but the overall tendency
 The collocations are here the top bigrams (words occuring two and two) for each community to gain another insight into the reviews.
 
 <figure style="text-align: center;">
-  <img src="./images/community_collo1.png">
-  <img src="./images/community_collo2.png">
-  <img src="./images/community_collo3.png">
+  <img src="./images/Community_collo_1.png">
+  <img src="./images/Community_collo_2.png">
+  <img src="./images/Community_collo_3.png">
 </figure>
 
 Again, this are not that informative, but looking close into the collocations the patterns from the wordclouds can be confirmed. 
