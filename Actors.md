@@ -46,15 +46,15 @@ Another way to investigate this is the look at the top and bottom 10 movies and 
   <img src="./images/degree_nodes_top.png" width="500"/>
 </figure>
 
-The table above shows that the top 10 movies based on degrees are all ranked either high or medium, which might indicate that the actors after all have some influence on the ranking.
+The table above shows that the top 10 movies based on degrees are all ranked either high or medium, which indicates that the actors after all have some influence on the ranking.
 
 <figure style="text-align: center;">
   <img src="./images/degree_nodes_bottom.png" width="500"/>
 </figure>
 
-This table above on the other hand shows that the bottom 10 movies based on degrees have no clear pattern in which ranks are seen. 
+This table above on the other hand shows that the bottom 10 movies based on degrees have no clear pattern in which ranks have the lowest degrees. 
 
-To sum up there might be a very small indicator of popular actors having influence on the popularity when looking at the high/medium ranked movies.
+To sum up there might be an indicator of popular actors having influence on the popularity when looking at the high/medium ranked movies, but it is difficult to conclude anything based on the low degrees, don't you think?
 
 #### Betweenness Centrality
 
