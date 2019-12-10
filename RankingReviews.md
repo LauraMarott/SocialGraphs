@@ -21,7 +21,7 @@ The three wordclouds are seen below:
 <figure style="text-align: center;">
   <img src="./images/Low ranked movies.png">
   <img src="./images/Medium ranked movies.png">
-  <img src="./images/High rankedn movies.png">
+  <img src="./images/High ranked movies.png">
 </figure>
 
 If you did not know which wordcloud belong to which category, would you then have been able to guess it? No, right?
