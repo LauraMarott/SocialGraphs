@@ -82,7 +82,7 @@ To sum up, the betweenness centralities show no tendencies on the rankings being
 
 #### Eigenvector Centrality
 
-The eigenvector centrality examines the influence of a node in a network meaning that a node with a high eigenvector centrality is linked to other nodes with high eigenvector centrality. This means that the influence of a node is determined from the influence of it neighbors. This is visualised below:
+The eigenvector centrality examines the influence of a node in a network meaning that a node with a high eigenvector centrality is linked to other nodes with high eigenvector centrality. This means that the influence of a node is determined from the influence of it neighbors. For the movies, this means that popular movies can influence the popularity of other movies if they are connected i.e. using the same actors. This is visualised below:
 
 <figure style="text-align: center;">
   <img src="./images/grap_eigenvector1.png" width="500"/>
