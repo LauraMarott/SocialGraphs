@@ -32,7 +32,7 @@ The outcome of the wordclouds are not very informative regarding the experiences
 Another way to explore the reviews is the collocation which in this case find the most frequent bigrams (words occuring two and two). Hopefully, this will tell us more about the reviews since the words used together is found which makes it possible to learn a little more about the context of the used words. 
 
 <figure style="text-align: center;">
-  <img src="./images/rank_collocations.png" width="500"/>
+  <img src="./images/Rank_collo.png" width="500"/>
 </figure>
 
 The collocations are not that informative either. It is difficult to see if there is any patterns in what words are used when reviewing the different ranked movies. 
@@ -44,15 +44,15 @@ It is necessary for us to rethink the text analysis! The individual words (and t
 First, the average sentiment scores and standard deviations are shown for each category:
 
 <figure style="text-align: center;">
-  <img src="./images/rank_mean_std.png" width="200"/>
+  <img src="./images/Rank_sentiment.png" width="200"/>
 </figure>
 
 From this table it is clear that the assumption about high ranked movies having the highest average sentiment score, the medium ranked having the middle sentiment score, and the low ranked movies having the lowest sentiment score. The full sentiment distributions are also interesting to take a look at:
 
 <figure style="text-align: center;">
-  <img src="./images/low_distri.png">
-  <img src="./images/medium_distri.png">
-  <img src="./images/high_distri.png">
+  <img src="./images/DistLow ranked movies.png">
+  <img src="./images/DistMedium ranked movies.png">
+  <img src="./images/DistHigh ranked movies.png">
 </figure>
 
 These distributions strengthen the assumption above, but with some outliers. 
