@@ -17,7 +17,9 @@ Oh, wait. Before we get started for real, it is important to know the concepts o
 
 [IMDb](https://www.imdb.com/) is one of the biggest online databases of information related to movies and tv-programs. IMDb is especially known for their respectable ratings based on the movie-watchers' scores for the movies. 
 
-The scores are on a scale from 1 to 10 and is calculated as a weighted mean rating, meaning that they try to keep the scores as representative as possible by not letting all ratings have the same weight. The algorithms behind are secret. For more information, visit [IMDb's help center](https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#).
+The scores are on a scale from 1 to 10 and are calculated as a weighted average rating, meaning that IMDb try to keep the scores as representative as possible by not letting all ratings have the same weights. The algorithms behind are secret. For more information, visit [IMDb's help center](https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#).
+
+Aaand now we are ready. Enjoy!
 
 ### [Understanding Data](https://lauramarott.github.io/SocialGraphs/BasicStats)
 
