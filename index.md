@@ -64,4 +64,4 @@ We hope that no matter why you have visited this website you have learned someth
 
 ### Explainer Notebook
 
-For more detailed analyses and the coding behind, see the Explainer Notebook. 
+For more detailed analyses and the coding behind, see the [Explainer Notebook](https://nbviewer.jupyter.org/github/LauraMarott/SocialGraphs/blob/master/Movies-Explainer-Notebook.ipynb). 
