@@ -49,12 +49,13 @@ A frequent assumption is that genres are connected to the success of a given mov
 
 ### Main Findings and Further Work
 
-At this point the above analyses shoud have provided you with your own ideas of what makes a movie successful. As shown, many parameters can contribute to the success of a movie. Some of them are anlysed at this website, and we have discovered patterns that indicates that the use of popular actors can be important as well as the genre of the movie seems to have an influence on the success. 
-Other things that could be investigated are
+At this point, the above analyses shoud have provided you with your own ideas of what makes a movie successful. As shown, many parameters can contribute to the success of a movie. Some of them are anlysed at this website, and we have discovered patterns that indicates that the use of popular actors can be important as well as the genre of the movie seems to have an influence on the success. 
+Other things that could be investigated are:
 * Directors
 * More in depth about profits
 * What time of the year a movie is released
 * The marketing of the movie
+
 You can probably think of many more things, that you could imagine to investigate, right? 
 
 Regarding the term *success* it might be relevant for IMDb to rethink the ratings, since it is mainly the upper part of the scale that is used according to the above analyses. Maybe a more adequate use of the scale will make it easier to see differences in the analyses conducted here. Or what do you think? 
