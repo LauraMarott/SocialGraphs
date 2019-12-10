@@ -17,7 +17,7 @@ Let us dive into it!
 The first thing is to understand the behaviour of the genres in terms of successfulness, which is here evaluated on the parameters IMDb-score (rating), Facebook likes, budget and profit:
 
 <figure style="text-align: center;">
-  <img src="./images/genre_investi.png" width="500" />
+  <img src="./images/Genre_info.png" width="500" />
 </figure>
 
 First of all, the above shows that all movies have a rating around the median at 6.5 found in the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section but some outliers are seen. For instance, Biography and History have a high average rating. The reason for this might be that they are "niché-movies", where the watchers are really interested in that kind of movies and therefore give high ratings. 
@@ -33,7 +33,7 @@ The wordclouds are made based on the IMDb-user reviews. The wordclouds show whic
 The wordclouds for each genre can be seen below:
 
 <figure style="text-align: center;">
-  <img src="./images/genre_wordclouds1.png" width="500" />
+  <img src="./images/genre_wordclouds.png" width="500" />
 </figure>
 
 The words in the wordclouds are very consistant with the words known for each genre, for instance in the Horror wordcloud where the biggest words are "scare" and "zombie". 
@@ -44,11 +44,11 @@ It is also clear that some of the movies reappear in more genres, for instance "
 Another way to analyse the reviews is through collocations, here being bigrams that shows the frequent two words occuring together. The top ten collocations for each genre is shown below:
 
 <figure style="text-align: center;">
-  <img src="./images/genre_collo1.png" />
-  <img src="./images/genre_collo2.png" />
-  <img src="./images/genre_collo3.png" />
-  <img src="./images/genre_collo4.png" />
-  <img src="./images/genre_collo5.png" />
+  <img src="./images/Genre_collo_1.png" />
+  <img src="./images/Genre_collo_2.png" />
+  <img src="./images/Genre_collo_3.png" />
+  <img src="./images/Genre_collo_4.png" />
+  <img src="./images/Genre_collo_5.png" />
 </figure>
 
 The collocations confirm the themes of the different genres, but are also providing further insight, for instance Drama including bigrams like "character development", "pleasently surprised" and "subject matter" which all tells more about the feelings of the watchers.
@@ -58,14 +58,14 @@ The collocations confirm the themes of the different genres, but are also provid
 A sentiment analysis is conducted to analyse the mood of the reviews in the different genres. The sentiment analysis is based on the fact that some words are more or less positive or negative than other, which is quantified for the genres, as seen below: 
  
 <figure style="text-align: center;">
-  <img src="./images/genre_mean_std.png" width="200" />
+  <img src="./images/Genre_sentiment_values.png" width="200" />
 </figure>
 
 The average sentiment scores correlate to the themes and content of the genres. For instance, the highest sentiment scores are Musical and Western which is romanticised genres. Likewise, the lowest scores are War and Horror which is very frightening genres. 
 Another way to show the sentiments are by there distributions below:
 
 <figure style="text-align: center;">
-  <img src="./images/genre_sentiment1.png" width="500" />
+  <img src="./images/genre_sentiment.png" width="500" />
 </figure>
 
 The sentiment analysis have shown us, that the sentiments correlate with the content of the genres but not with the ratings of the genres. Therefore, it is interesting to investigate the positive and negative reviews in each genre using wordclouds. 
