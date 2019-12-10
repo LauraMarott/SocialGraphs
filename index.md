@@ -36,7 +36,7 @@ This investigation centers around actors and movie ratings. For this, a Network 
 
 ### [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews)
 
-Here an anlysis of the user reviews of the movies is conducted to investigate the ranking divisions using text analysis. You can see this investigation [here](https://lauramarott.github.io/SocialGraphs/RankingReviews).
+Here an anlysis of the user reviews of the movies (extracted with the IMDbPY package) is conducted to investigate the ranking divisions using text analysis. You can see this investigation [here](https://lauramarott.github.io/SocialGraphs/RankingReviews).
 
 ### [Investigation of Communities](https://lauramarott.github.io/SocialGraphs/Community)
 
