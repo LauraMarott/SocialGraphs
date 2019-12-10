@@ -2,7 +2,7 @@
 
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
-One hypothesis is that the use of actors influences the popularity of the movies and thus the ratings made by the IMDb-users. To investigate this, a Network Analysis is conducted here. 
+One hypothesis about movies is that the use of actors influences the popularity of the movies and thus the ratings made by the IMDb-users. To investigate this, a Network Analysis is conducted here which allows you to decide whether you will accept deny this hypothesis.  
 
 ### Description of the Network
 The network is an undirected network, where the movies are the nodes and the edges between them are shared actors. This means that the network is weighted since two movies can share more than one actor. The edge weights are therefore between 1 and 3, since the dataset has only noted the three first mentioned actors for each movie. 
