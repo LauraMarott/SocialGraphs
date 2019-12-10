@@ -40,7 +40,7 @@ Here an anlysis of the user reviews of the movies (extracted with the IMDbPY pac
 
 ### [Investigation of Communities](https://lauramarott.github.io/SocialGraphs/Community)
 
-This investigation aims to look into the [Network](https://lauramarott.github.io/SocialGraphs/Actors) with a new set of glasses. Here, the communities are analysed to find out if there are any patterns between movies which are densely connected. 
+This investigation aims to look into the [Movie Network](https://lauramarott.github.io/SocialGraphs/Actors) with a new set of glasses. Here, the communities are analysed to find out if there are any patterns between movies which are densely connected. 
 The reasons for the connections are investigated using the network and the text analysis. You can follow the analysis [here](https://lauramarott.github.io/SocialGraphs/Community).
 
 ### [Investigation of Genres](https://lauramarott.github.io/SocialGraphs/Genres)
