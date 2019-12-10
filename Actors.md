@@ -4,6 +4,14 @@
 
 One hypothesis about movies is that the use of actors influences the popularity of the movies and thus the ratings made by the IMDb-users. To investigate this, a Network Analysis is conducted here which allows you to decide whether you will accept deny this hypothesis.  
 
+This analysis consists of the following parts:
+* Description of the network
+* Overall network and biggest component
+* Degree and centrality plots
+* Understanding the network further
+
+Let's dive into it!
+
 ### Description of the Network
 The network is an undirected network, meaning that no node is pointing at other nodes without the other nodes pointing back. In this network the movies are the nodes and the edges between them are shared actors. This means that the network is weighted since two movies can share more than one actor. The edge weights are therefore between 1 and 3, since the dataset has only noted the three first mentioned actors for each movie. 
 The network is simple since it is not possible for a movie to link to itself. Below, the network is visualised. 
