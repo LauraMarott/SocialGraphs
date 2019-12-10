@@ -45,7 +45,7 @@ The reasons for these connections are investigated using the network and text an
 
 ### [Investigation of Genres](https://lauramarott.github.io/SocialGraphs/Genres)
 
-An frequent assumption is that genres are connected to the success of a given movie. Therefore, this is investigated [here](https://lauramarott.github.io/SocialGraphs/Genres). This analysis is mainly based on text analysis of the reviews and basic statistics for the movies in the different genres.
+A frequent assumption is that genres are connected to the success of a given movie since many people have preferences. Therefore, this is investigated [here](https://lauramarott.github.io/SocialGraphs/Genres). This analysis is mainly based on text analysis of the reviews and basic statistics for the movies in the different genres.
 
 ### Main Findings and Further Work
 
