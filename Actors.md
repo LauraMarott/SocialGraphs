@@ -28,16 +28,19 @@ The attentive reader will notice change of the colors of the nodes. The explanat
 * The low ranked movies are RED
 
 ### Degrees and Centrality Plots
+
+Degree and centralities are nice tools to use when investigating the popularity of movies. By using different measures, the nodes' importances in the network is examined. 
+
 #### Degree
 
-The network is plotted with nodesize depending on the degree of the nodes, meaning how many connections a movie has to other movies. 
+The network is first plotted with nodesizes depending on the degree of the nodes, meaning how many connections a given movie has to other movies. 
 
 <figure style="text-align: center;">
   <img src="./images/graph_degree1.png" width="500"/>
 </figure>
 
-The degree sizes shows that there area difference in the number of connections between the movies, however no clear pattern regarding the ratings can be seen with the naked eye, meaning that this plot does not confirm the hypothesis of good movies using the same popular actors. 
-Another way to invesstigate this is the look at the top and bottom 10 movies and there degree and ranking:
+The degree sizes shows that there are difference in the number of connections between the movies where the higher ranked movies tend to have a higher degree, meaning that this plot might confirm the hypothesis of good movies using the same popular actors. 
+Another way to investigate this is the look at the top and bottom 10 movies and there degree and ranking:
 
 <figure style="text-align: center;">
   <img src="./images/degree_nodes_top.png" width="500"/>
