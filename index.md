@@ -60,7 +60,7 @@ You can probably think of many more things, that you could imagine to investigat
 
 Regarding the term *success* it might be relevant for IMDb to rethink the ratings, since it is mainly the upper part of the scale that is used according to the above analyses. Maybe a more adequate use of the scale will make it easier to see differences in the analyses conducted here. Or what do you think? 
 
-We hope that no matter why you have visited this website you have learned something and most important gives you motivation to learn more about *What makes a movie successful*.
+We hope that no matter why you have visited this website you have learned something and most important gained motivation to learn more about *What makes a movie successful*.
 
 ### Explainer Notebook
 
