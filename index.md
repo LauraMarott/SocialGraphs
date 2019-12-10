@@ -23,8 +23,8 @@ Aaand now we are ready. Enjoy!
 
 ### [Understanding Data](https://lauramarott.github.io/SocialGraphs/BasicStats)
 
-The main data is IMDb-data extracted from [kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). The data is build around the movies where each line represent a movie.
-After preparation the dataset only contains movies from 2010 and newer. Download this dataset [here](https://github.com/LauraMarott/SocialGraphs/blob/master/dataset.csv).
+The main data is IMDb-data extracted from [kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). The data is build around the movies where each line represents one movie.
+After preparation the dataset only contains movies released in 2010 or after. Download this dataset [here](https://github.com/LauraMarott/SocialGraphs/blob/master/dataset.csv).
 
 Furthermore, the IMDbPY package is used to scrape the reviews from IMDb.com. 
 
