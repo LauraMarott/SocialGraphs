@@ -62,6 +62,10 @@ Regarding the term *success* it might be relevant for IMDb to rethink the rating
 
 We hope that no matter why you have visited this website you have learned something and most important gained motivation to learn more about *What makes a movie successful*.
 
-### Explainer Notebook
+### Explainer Notebook and Data used
 
 For more detailed analyses and the coding behind, see the [Explainer Notebook](https://nbviewer.jupyter.org/github/LauraMarott/SocialGraphs/blob/master/Movies-Explainer-Notebook.ipynb). 
+
+[The full dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) can be found on kaggle.
+[The reduced dataset](https://github.com/LauraMarott/SocialGraphs/blob/master/dataset.csv) can be downloaded here.
+[The file for the sentiment dictionary](https://github.com/LauraMarott/SocialGraphs/blob/master/AFINN-111.txt) can be downloaded here.
