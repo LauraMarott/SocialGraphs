@@ -19,7 +19,7 @@ The communities are made based on the idea of optimising their internal strength
 
 The modularity is a score for how well connected the communities are and it is between -1 and 1 where 0 corresponds to a random network. The modularity for this community detection is 0.66, thus the communities are well connected. The plot above also shows that the communitites are nicely defined. 
 
-From here it is interesting to see what makes the communities and if this could influence the success of a movie.
+From here it is interesting to see what makes the communities and if this could influence the success of a movie, right?
 
 ### Understanding the Communities
 
