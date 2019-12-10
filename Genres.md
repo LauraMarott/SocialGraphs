@@ -1,7 +1,7 @@
 ## Investigation of Genres
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
-The genres are investigated to see how they relate to the success of a given movie. In the dataset one movie can be assigned several genre and therefore each movie can be a part of more genres in the below analyses. 
+Do you have preferences for what types of movies you like to watch? Many people do thus the genres are investigated to see how they relate to the success of a given movie. In the dataset one movie can be assigned several genre and therefore each movie can be a part of more genres in the below analyses. 
 The investigation here consists of the following parts:
 * Understanding the Genres
 * Wordclouds
@@ -20,15 +20,15 @@ The first thing is to understand the behaviour of the genres in terms of success
   <img src="./images/genre_investi.png" width="500" />
 </figure>
 
-First of all, the above shows that all movies have a rating around the median at 6.5 found in the [Basic Stats](https://lauramarott.github.io/SocialGraphs/BasicStats) but some outliers are seen. For instance, Biography and History have a high average rating. The reason for this might be that they are "niche-movies", where the viewers are really interested in that kind of movies and therefore give high ratings. 
+First of all, the above shows that all movies have a rating around the median at 6.5 found in the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section but some outliers are seen. For instance, Biography and History have a high average rating. The reason for this might be that they are "niché-movies", where the watchers are really interested in that kind of movies and therefore give high ratings. 
 
-In terms of profit, Animation and SciFi have the highest profit. These movies contains many special effects which indicates that this is what the viewers want to see. 
+In terms of profit, Animation and SciFi have the highest profit. These movies contains many special effects which might indicate that this is what the watchers want to see. 
 
 This have provided an overview of how the genres behaves compared to each other. We are now ready to continue the investigation. 
 
 ### Wordclouds
 
-The wordclouds are made based on the IMDb-user reviews. The wordclouds shows which words af frequent and unique for each genre, taking into account how unique the given word is across the different genres. For more information of the review behaviour, see [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews).
+The wordclouds are made based on the IMDb-user reviews. The wordclouds show which words are frequent and unique for each genre, taking into account how unique the given word is across the different genres. For more information of the review behaviour, see [Review Investigation based on Rankings](https://lauramarott.github.io/SocialGraphs/RankingReviews).
 
 The wordclouds for each genre can be seen below:
 
@@ -51,25 +51,24 @@ Another way to analyse the reviews is through collocations, here being bigrams t
   <img src="./images/genre_collo5.png" />
 </figure>
 
-The collocations confirms the themes of the different genres, but are also providing further insight, for instance Drama including bigrams like "character development", "pleasently surprised" and "subject matter".
+The collocations confirm the themes of the different genres, but are also providing further insight, for instance Drama including bigrams like "character development", "pleasently surprised" and "subject matter" which all tells more about the feelings of the watchers.
 
 ### Sentiment Analysis
 
 A sentiment analysis is conducted to analyse the mood of the reviews in the different genres. The sentiment analysis is based on the fact that some words are more or less positive or negative than other, which is quantified for the genres, as seen below: 
-
+ 
 <figure style="text-align: center;">
   <img src="./images/genre_mean_std.png" width="200" />
 </figure>
 
-The average sentiment score correlates to the themes and content of the genres. For instance, the highest sentiment scores are Musical and Western which is romanticised genres. Likewise, the lowest scores are War and Horror which is very frightening genres. 
+The average sentiment scores correlate to the themes and content of the genres. For instance, the highest sentiment scores are Musical and Western which is romanticised genres. Likewise, the lowest scores are War and Horror which is very frightening genres. 
 Another way to show the sentiments are by there distributions below:
 
 <figure style="text-align: center;">
   <img src="./images/genre_sentiment1.png" width="500" />
 </figure>
 
-Again, Musical is very high scored and the number of low sentiment reviews are very limited. 
-The sentiment analysis have shown us, that the sentiments correlates with the content of the genres but not with the ratings of the genres. Therefore, it is interesting to investigate the positive and negative reviews in each genre using wordclouds. 
+The sentiment analysis have shown us, that the sentiments correlate with the content of the genres but not with the ratings of the genres. Therefore, it is interesting to investigate the positive and negative reviews in each genre using wordclouds. 
 
 #### Positive and Negative Wordclouds
 
