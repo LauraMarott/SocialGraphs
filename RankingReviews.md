@@ -1,7 +1,7 @@
 ## Review Investigation based on Rankings
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
-This investigation aims to analyse the three ranking groups found based on the 33 % and 66 % percentile from the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section. Here, the user reviews of the movies are analysed using Text Analysis. Hopefully, this text analysis will provide insight in what the movie-wathcers think and experience regarding the movies in the three rating groups.
+This investigation aims to analyse the three ranking groups found based on the 33 % and 66 % percentile from the [Understanding the Movie Data](https://lauramarott.github.io/SocialGraphs/BasicStats)-section. Here, the user reviews of the movies are analysed using Text Analysis. Hopefully, this text analysis will provide insight in what the movie-watchers think and experience regarding the movies in the three rating groups.
 
 This text analysis is divided into three parts:
 * Wordclouds 
@@ -39,7 +39,7 @@ The collocations are not that informative either. It is difficult to see if ther
 
 ### Sentiment Analysis
 
-It is necessary for us to rethink the text analysis! The individual words (and the bigrams) have not been informative, thus a sentiment analysis is made on each ranking category to see if the ranking correlates to the sentiment of the reviews. The sentiment analysis is based on the idea that some words are more or less positive and negative than others. Therefore, the words are assigned "scores" and the mean sentiment for each review in each ranking category is calculated resulting in the sentiment distributions. It is assummed that the sentiment for the high ranked movies are higher than for the low ranked movies. 
+It is necessary for us to rethink the text analysis! The individual words (and the bigrams) have not been informative, thus a sentiment analysis is made on each ranking category to see if the ranking correlates to the sentiment of the reviews. The sentiment analysis is based on the idea that some words are more or less positive and negative than others. Therefore, the words are assigned "scores" and the mean sentiment for each review in each ranking category is calculated resulting in the sentiment distributions. The scores are assigned using [this list](https://github.com/LauraMarott/SocialGraphs/blob/master/AFINN-111.txt). It is assummed that the sentiment for the high ranked movies are higher than for the low ranked movies. 
 
 First, the average sentiment scores and standard deviations are shown for each category:
 
