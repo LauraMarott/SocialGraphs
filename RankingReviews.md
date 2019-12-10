@@ -19,9 +19,9 @@ Wordclouds are used to get an overview of what people think about movies ranked 
 The three wordclouds are seen below:
 
 <figure style="text-align: center;">
-  <img src="./images/low_wordcloud.png">
-  <img src="./images/medium_wordcloud.png">
-  <img src="./images/high_wordcloud.png">
+  <img src="./images/Low ranked movies.png">
+  <img src="./images/Medium ranked movies.png">
+  <img src="./images/High rankedn movies.png">
 </figure>
 
 If you did not know which wordcloud belong to which category, would you then have been able to guess it? No, right?
