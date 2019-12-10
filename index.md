@@ -28,7 +28,7 @@ After preparation the dataset only contains movies released in 2010 or after. Do
 
 Furthermore, the [IMDbPY](https://imdbpy.github.io/) package is used to scrape the reviews from IMDb.com. 
 
-To understand the data, the basic stats are explored. See the analysis [here](https://lauramarott.github.io/SocialGraphs/BasicStats).
+To understand the IMDb-dataset, the basic stats are explored. See the analysis [here](https://lauramarott.github.io/SocialGraphs/BasicStats).
 
 ### [Investigation of Actors](https://lauramarott.github.io/SocialGraphs/Actors)
 
