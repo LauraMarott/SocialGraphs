@@ -1,7 +1,7 @@
-## Basic Stats
+## Understanding the Movie Data
 *Return to [HOME](https://lauramarott.github.io/SocialGraphs/)*
 
-To understand the data it is here examined on the following parameters:
+Before even trying to tell anything about what makes a movie successful, it is important to understand the data used for the analyses, don't you think? To understand the movie data it is here examined on the following parameters:
 * Genre
 * Budget and Income
 * Profit 
